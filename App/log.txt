@@ -1,0 +1,21 @@
+2/11/19 11:17:41: fgdfgderror
+2/11/19 11:17:46: fgdfgdlogin
+2/11/19 11:17:46: fgdfgdHas empezado la aplicacion
+2/11/19 11:19:12: User1error
+2/11/19 11:19:22: User2error
+2/11/19 11:19:29: User3error
+2/11/19 11:19:40: Jefalogin
+2/11/19 11:19:40: JefaHas empezado la aplicacion
+2/11/19 11:31:27: USER  Iniento inicar sesion 
+2/11/19 11:31:35: Anonimo  Iniento inicar sesion 
+2/11/19 11:31:44: Jefa  Inicio sesion 
+2/11/19 11:31:44: Jefa  Has empezado la aplicacion 
+2/11/19 11:36:56: Jefa  Inicio sesion 
+2/11/19 11:36:56: Jefa  Has empezado la aplicacion 
+2/11/19 11:39:01: Jefa  Inicio sesion 
+2/11/19 11:39:01: Jefa  Has empezado la aplicacion 
+2/11/19 11:39:16: Jefa  Haz cerrado la aplicacion 
+2/11/19 11:39:28: Jefa  Inicio sesion 
+2/11/19 11:39:28: Jefa  Has empezado la aplicacion 
+2/11/19 11:48:40: Jefa  Inicio sesion 
+2/11/19 11:48:40: Jefa  Has empezado la aplicacion 
